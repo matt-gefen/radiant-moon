@@ -1,11 +1,12 @@
 {
   "extends": "@radiant-moon/typescript-config/react-library.json",
+  "moduleResolution": "Bundler",
   "compilerOptions": {
-    "baseUrl": ".",
+    "outDir": "dist",
     "paths": {
-      "@radiant-moon/ui/*": ["./src/*"]
+      "@radiant-moon/ui/*": ["./src/components/*"]
     }
   },
-  "include": ["."],
+  "include": ["src"],
   "exclude": ["node_modules", "dist"]
 }

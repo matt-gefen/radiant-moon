@@ -1,0 +1,1 @@
+export { default } from "@radiant-moon/ui/postcss.config";
