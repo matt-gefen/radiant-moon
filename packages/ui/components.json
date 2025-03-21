@@ -11,10 +11,10 @@
   },
   "iconLibrary": "lucide",
   "aliases": {
-    "components": "@workspace/ui/components",
-    "utils": "@workspace/ui/lib/utils",
-    "hooks": "@workspace/ui/hooks",
-    "lib": "@workspace/ui/lib",
-    "ui": "@workspace/ui/components"
+    "components": "@radiant-moon/ui/components",
+    "utils": "@radiant-moon/ui/lib/utils",
+    "hooks": "@radiant-moon/ui/hooks",
+    "lib": "@radiant-moon/ui/lib",
+    "ui": "@radiant-moon/ui/components"
   }
 }
